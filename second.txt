@@ -1,1 +1,3 @@
 second file
+
+third line on second file (second line is blank)
