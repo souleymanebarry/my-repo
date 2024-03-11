@@ -2,3 +2,4 @@ first line
 second line
 another line - edited twice
 last line
+in fact, this is the last line
